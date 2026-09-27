@@ -1,3 +1,8 @@
+> [!NOTE]
+> **🎓 Projet Académique / Travaux Pratiques Universitaires**  
+> *Ce dépôt contient des exercices d'apprentissage, évaluations et notebooks réalisés dans le cadre de mon cursus universitaire en Intelligence Artificielle et Data Science.*
+
+
 # Mini-Projet IA: Service Web pour la Data Science
 
 Ce projet implémente une API REST pour la classification d'Iris et l'analyse statistique descriptive.
